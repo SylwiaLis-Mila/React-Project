@@ -36,11 +36,6 @@ li {
 li:first-letter {
   text-transform: capitalize;
 }
-hr: {
+hr {
   color: goldenrod;
-}
-
-.footer {
-  text-align: center;
-  display: block;
 }
